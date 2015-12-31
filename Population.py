@@ -26,7 +26,7 @@ print A
 #initialized pops, begin sim
 
 timeStep = 0
-simulationTime = 100
+simulationTime = 500
 detectedPop=[]
 detectRates = []
 timeDetectAdjustmentFactor = 0.1
